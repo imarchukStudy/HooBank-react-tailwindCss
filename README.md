@@ -8,3 +8,4 @@
 
 ![img](https://drive.google.com/file/d/1BzRqrX8OYhTBIODPt1HFzdJ27AiSu7mM/view?usp=sharing)
 💻 JS Mastery Pro - https://jsmastery.pro!/youtube
+![img](https://www.linkedin.com/in/ivan-marchuk-a16a39248/details/projects/2020896633/multiple-media-viewer/?profileId=ACoAAD1grXIBtpK8LCaYZuCTDs8lefGC8A1gEZE&treasuryMediaId=1635536780690)
