@@ -1,11 +1,10 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
-![HeroSection][(https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)](https://drive.google.com/file/d/1j3dGCc5l2rUNX2g0wHrB_KVp_2WRenrv/view?usp=sharing)
-![Main](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)](https://drive.google.com/file/d/1H_bcE89Ac1NOOu1n53q8Atuc0TLDJstC/view?usp=sharing)
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+![HeroSection](https://drive.google.com/file/d/1j3dGCc5l2rUNX2g0wHrB_KVp_2WRenrv/view?usp=sharing)
+![Main](https://drive.google.com/file/d/1H_bcE89Ac1NOOu1n53q8Atuc0TLDJstC/view?usp=sharing)
+![HooBank](https://drive.google.com/file/d/1S7HdFa01NnuNc_WxdLLWOh2rjCnlM2Kl/view?usp=sharing)
+![HooBank](https://drive.google.com/file/d/1UkJUJs_d6oCY1sZgVY1Vv88C8QnyX_i-/view?usp=sharing)
+[![HooBank](https://drive.google.com/file/d/1BzRqrX8OYhTBIODPt1HFzdJ27AiSu7mM/view?usp=sharing)
 
 
 💻 JS Mastery Pro - https://jsmastery.pro/youtube
