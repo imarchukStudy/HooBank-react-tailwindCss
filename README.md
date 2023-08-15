@@ -6,5 +6,5 @@
 ![content](https://drive.google.com/file/d/1UkJUJs_d6oCY1sZgVY1Vv88C8QnyX_i-/view?usp=sharing)
 ![image](https://drive.google.com/file/d/1UkJUJs_d6oCY1sZgVY1Vv88C8QnyX_i-/view?usp=sharing)
 
-
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
+![img](https://drive.google.com/file/d/1BzRqrX8OYhTBIODPt1HFzdJ27AiSu7mM/view?usp=sharing)
+💻 JS Mastery Pro - https://jsmastery.pro!/youtube
